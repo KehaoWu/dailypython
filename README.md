@@ -1,6 +1,7 @@
 # dailypython
 python日报，每天分享5篇精选python好文
 
+[github](https://github.com/KehaoWu/dailypython) [gitee](https://gitee.com/kehaowu/dailypython)
 
 - Python技术学习群
 - 量化学习群
